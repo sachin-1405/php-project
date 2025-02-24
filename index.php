@@ -5,3 +5,4 @@ require 'functions.php';
 
 run();
 hello
+How are you
